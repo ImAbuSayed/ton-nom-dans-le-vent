@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-nom-dans-le-vent/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ton Nom Dans Le Vent](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-nom-dans-le-vent/) |
+| **Get License** | [Request Licensing for Ton Nom Dans Le Vent](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-nom-dans-le-vent/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4428)
 
 ---
 
